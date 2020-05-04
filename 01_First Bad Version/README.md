@@ -17,8 +17,9 @@ call isBadVersion(4) -> true
 
 Then 4 is the first bad version. 
 
-Solution Aprroach: 
-1- Binary Search
+# Solution Aprroach: 
+
+### 1- Binary Search
 
 ```Java
 public int firstBadVersion(int n) {
